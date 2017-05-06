@@ -1,0 +1,26 @@
+.formulario{
+  padding: 70px;
+    text-align: center;
+}
+
+.sobre{
+    padding: 70px;
+}
+
+.tituloSobre{
+    text-align: center;
+}
+
+.index{
+    background-repeat: no-repeat;
+    background-size: 100%;
+    bottom: 0;
+    color: black;
+    left: 0;
+    overflow: auto;
+    padding: 3em;
+    position: absolute;
+    right: 0;
+    text-align: center;
+    top: 0;
+}
